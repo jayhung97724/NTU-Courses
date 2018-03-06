@@ -1,5 +1,9 @@
 # Course Information
 
+<p align="center">
+  <img src="https://i.imgur.com/EM0m4TD.png">
+</p>
+
 ## Course Name
 
 時頻分析和小波轉換
