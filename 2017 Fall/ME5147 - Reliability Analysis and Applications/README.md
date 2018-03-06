@@ -1,5 +1,9 @@
 # Course Information
 
+<p align="center">
+  <img src="https://i.imgur.com/RIUZGYC.png">
+</p>
+
 ## Course Name
 
 可靠度分析與應用
