@@ -6,8 +6,8 @@
 
 ## Course Name
 
-可靠度分析與應用
-Reliability Analysis and Applications
+最佳化概論
+Introduction to Optimization
 
 ## Semester
 
