@@ -17,7 +17,7 @@
 ## 2017 Fall
 
 - `IE 7039` 最佳化概論（Introduction to Optimization）
-- `EE 5184` 機器學習（Machine Learning ）
+- `EE 5184` 機器學習（Machine Learning）
 - `ME 5147` 可靠度分析與應用（Reliability Analysis and Applications）
 - `CSIE 7130` 演算法設計方法論（Design Strategies for Computer Algorithms）
 
